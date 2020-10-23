@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mateo="Matthew Sanabria"
-david=""
+david="David De Leon"
 jimmy="Jimmy Revoredo"
 carlos="Carlos Gamboa"
 
