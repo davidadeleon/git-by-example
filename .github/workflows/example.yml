@@ -1,0 +1,20 @@
+---
+name: 'Example Workflow'
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+
+jobs:
+  example:
+    name: Example Job
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Run Bash
+      run: ./bash.sh
