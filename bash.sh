@@ -3,6 +3,6 @@
 mateo="Matthew Sanabria"
 david=""
 jimmy=""
-carlos=""
+carlos="Carlos Gamboa"
 
 echo "Welcome to the Tech Talk ${mateo}, ${david}, ${jimmy}, ${carlos}!"
