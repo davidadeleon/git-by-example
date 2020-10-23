@@ -6,3 +6,5 @@ jimmy=""
 carlos="Carlos Gamboa"
 
 echo "Welcome to the Tech Talk ${mateo}, ${david}, ${jimmy}, ${carlos}!"
+
+echo "Goodbye"
